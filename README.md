@@ -24,8 +24,8 @@ The application follows a precise, multi-stage AI pipeline to ensure accurate in
 | Component | Technology | Role |
 | :--- | :--- | :--- |
 | **Object Detection** | YOLO (You Only Look Once) | Identifies and localizes ingredients in the image. |
-| **Recipe Generation** | OpenAI API (GPT Models) | Generates the cooking instructions and recipe structure. |
-| **Frontend/GUI** | Python (Specific framework, e.g., Tkinter/PyQt, if applicable) | Provides the graphical interface for user interaction and output display. |
+| **Recipe Generation** | OpenAI API | Generates the cooking instructions and recipe structure. |
+| **Frontend/GUI** | Provides the graphical interface for user interaction and output display. |
 | **Input Format** | PNG Image | Required input format for ingredient images. |
 
 ## ⚙️ Setup and Launch Instructions
